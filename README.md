@@ -12,7 +12,6 @@
 | **Branch** | B.Tech – Artificial Intelligence and Machine Learning |
 | **Year** | First Year (2025–2029) |
 | **Course Code** | CSE0001 – Digital Literacy |
-| **Credits** | 1 Credit – Pass/Fail |
 
 ---
 
@@ -62,7 +61,6 @@ digital-literacy-project/
 ## Module Summaries
 
 ### Task 1 – Digital Literacy Awareness Infographic (Module 1)
-**Marks: 20**
 
 I created a one-page digital literacy infographic using **Canva**. The infographic covers five key topics: what digital literacy means, useful digital tools for students, safe internet practices, professional online presence, and email etiquette. At the bottom, there is a social media Do's and Don'ts section. Each topic is given its own colour-coded section to make the infographic easy to read at a glance.
 
@@ -71,7 +69,6 @@ I created a one-page digital literacy infographic using **Canva**. The infograph
 ---
 
 ### Task 2 – Student Digital Portfolio (Module 2)
-**Marks: 20**
 
 I set up accounts on three platforms — **GitHub**, **LinkedIn**, and **Kaggle** — and filled in my details on each one. On GitHub, I created a special profile README repository (named after my username) that shows my name, branch, year, registration number, and a short note about what I hope to learn. On LinkedIn, I filled in my Education section with my degree, institution, and graduation year. On Kaggle, I set up my profile as an AI/ML Engineering Student at VIT Bhopal University.
 
@@ -80,7 +77,6 @@ I set up accounts on three platforms — **GitHub**, **LinkedIn**, and **Kaggle*
 ---
 
 ### Task 3 – Coding & Collaboration Platforms (Module 3)
-**Marks: 20**
 
 **Part A:** I created an account on HackerRank and completed a beginner-level coding challenge to get familiar with the platform.
 
@@ -93,7 +89,6 @@ I set up accounts on three platforms — **GitHub**, **LinkedIn**, and **Kaggle*
 ---
 
 ### Task 4 – Email Etiquette (Module 4)
-**Marks: 20**
 
 **Part A:** I wrote two professional emails — one from a student to a professor requesting an assignment deadline extension, and another from a student to an internship coordinator expressing interest in a summer internship. Both emails follow proper email etiquette with a clear subject line, professional greeting, structured body, and a formal sign-off.
 
@@ -104,7 +99,6 @@ I set up accounts on three platforms — **GitHub**, **LinkedIn**, and **Kaggle*
 ---
 
 ### Task 5 – Cybercrime Awareness (Module 5)
-**Marks: 20**
 
 **Part A:** I wrote a 240-word case study on **UPI Payment Fraud** — one of the most common cybercrimes targeting college students in India. The case study follows a realistic fictional scenario of a student getting scammed while selling a laptop on OLX, and covers what the crime is, how it happens step by step, who is targeted, and the consequences.
 

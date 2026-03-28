@@ -117,7 +117,7 @@ I set up accounts on three platforms — **GitHub**, **LinkedIn**, and **Kaggle*
 | GitHub Profile | https://github.com/RaagShri17 |
 | LinkedIn Profile | www.linkedin.com/in/raag-shri-546a2837a |
 | Kaggle Profile | https://kaggle.com/raagshri |
-| Digital Literacy Quiz | (https://docs.google.com/forms/d/e/1FAIpQLScee9gIpRNJ6fHdMdBbCMVo_0OFy3FrAh5cuSQGtO7aNffhsA/viewform?usp=publish-editor) |
+| Digital Literacy Quiz | https://docs.google.com/forms/d/e/1FAIpQLScee9gIpRNJ6fHdMdBbCMVo_0OFy3FrAh5cuSQGtO7aNffhsA/viewform?usp=publish-editor |
 | Cybercrime Portal | https://cybercrime.gov.in |
 | Cyber Helpline | 1930 |
 

@@ -1,5 +1,5 @@
 # CSE0001 – Digital Literacy Project
-### VIT Bhopal University | VITyarthi E-Learning Platform
+### VIT Bhopal University 
 
 ---
 

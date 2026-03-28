@@ -84,7 +84,7 @@ I set up accounts on three platforms — **GitHub**, **LinkedIn**, and **Kaggle*
 
 🔗 **Google Form Link:** [Digital Literacy Awareness Quiz](https://forms.google.com) ← *(replace with your actual form link)*
 
-📁 Files: `task-3-platforms/hackerrank-challenge.png`, `google-form.png`, `google-sheet-responses.png`
+📁 Files: `task-3-platforms/`
 
 ---
 
@@ -94,7 +94,7 @@ I set up accounts on three platforms — **GitHub**, **LinkedIn**, and **Kaggle*
 
 **Part B:** I created a social media checklist with 7 Do's and 7 Don'ts for responsible social media use as a college student.
 
-📁 Files: `task-4-email-etiquette/email-drafts.pdf`, `social-media-checklist.md`
+📁 Files: `task-4-email-etiquette/`
 
 ---
 

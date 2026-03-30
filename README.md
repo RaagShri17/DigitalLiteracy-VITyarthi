@@ -92,7 +92,7 @@ I set up accounts on three platforms — **GitHub**, **LinkedIn**, and **Kaggle*
 
 **Part A:** I wrote two professional emails — one from a student to a professor requesting an assignment deadline extension, and another from a student to an internship coordinator expressing interest in a summer internship. Both emails follow proper email etiquette with a clear subject line, professional greeting, structured body, and a formal sign-off.
 
-**Part B:** I created a social media checklist with 7 Do's and 7 Don'ts for responsible social media use as a college student.
+**Part B:** I created a social media checklist with 5 Do's and 5 Don'ts for responsible social media use as a college student.
 
 📁 Files: `task-4-email-etiquette/`
 

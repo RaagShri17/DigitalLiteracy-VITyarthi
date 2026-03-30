@@ -82,7 +82,7 @@ I set up accounts on three platforms — **GitHub**, **LinkedIn**, and **Kaggle*
 
 **Part B:** I built a **Digital Literacy Awareness Quiz** using Google Forms with 5 questions — 4 multiple choice and 1 short answer. The quiz covers topics like what digital literacy means, safe internet habits, the use of GitHub, cybercrime helpline numbers, and phishing awareness. The form is linked to a Google Sheet that collects responses automatically.
 
-🔗 **Google Form Link:** [Digital Literacy Awareness Quiz](https://forms.google.com) ← *(replace with your actual form link)*
+🔗 **Google Form Link:** [Digital Literacy Awareness Quiz] https://docs.google.com/forms/d/e/1FAIpQLScee9gIpRNJ6fHdMdBbCMVo_0OFy3FrAh5cuSQGtO7aNffhsA/viewform?usp=publish-editor
 
 📁 Files: `task-3-platforms/`
 

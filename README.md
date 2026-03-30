@@ -125,7 +125,7 @@ I set up accounts on three platforms — **GitHub**, **LinkedIn**, and **Kaggle*
 
 ## Declaration
 
-I declare that all work in this repository is my own. Screenshots are from my personal accounts. Written reflections are in my own words and have not been copied from any external source. AI tools were used only to understand concepts — all final write-ups reflect my own understanding and experience.
+I declare that all work in this repository is my own. Screenshots are from my personal accounts. Written reflections are in my own words and have not been copied from any external source. All final write-ups reflect my own understanding and experience.
 
 ---
 
